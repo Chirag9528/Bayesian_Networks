@@ -62,8 +62,7 @@ rs q 1 2 e ~3
 
 Note : "~" symbol is used to indicate that the variable if false.
 
-Assumption : we 
-assume that we are only interested in obtaining probability values instead of a distribution
+Assumption : we assumed that we are only interested in obtaining probability values instead of a distribution and also we assumed bayes net to represent only boolean variables.
 
 The output generated is written in separate files which have the probability value , one per line for every query in file2.
 
